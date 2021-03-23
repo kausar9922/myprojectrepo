@@ -34,4 +34,7 @@ public class Calculator {
 	public static void fifth(int num1){
 		 System.out.println(num1*num1*num1*num1*num1);
 	}
+	public static void br1(int num1){
+		 System.out.println(num1*num1);
+	}
 }
